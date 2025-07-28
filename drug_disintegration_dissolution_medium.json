@@ -1,0 +1,23 @@
+{
+  "dissolution_medium": {
+    "overview": "This dimension focuses on the characteristics of the dissolution medium, such as pH, surfactants, and viscosity, and how they affect the disintegration.",
+    "aspects": {
+      "chemical_composition_and_ph_influence": {
+        "description": "Describe how the type of medium and pH influence the process.",
+        "example": "The dissolution rate is enhanced in a phosphate buffer at pH 6.8, simulating the intestinal environment."
+      },
+      "surfactant_effects": {
+        "description": "Explain how surfactants impact the disintegration.",
+        "example": "The addition of SDS accelerates disintegration by increasing wettability and reducing surface tension."
+      },
+      "medium_viscosity_and_deaeration_effects": {
+        "description": "Describe how physical properties like viscosity impact dissolution.",
+        "example": "Higher viscosity slows down particle movement and reduces dissolution efficiency, whereas deaerated media prevent floating and ensure uniform disintegration."
+      },
+      "time_referenced_changes_in_medium_properties": {
+        "description": "Track how medium properties affect dissolution over time.",
+        "example": "Within the first minute, the dissolution rate increases significantly due to improved surface interaction provided by the surfactant."
+      }
+    }
+  }
+}

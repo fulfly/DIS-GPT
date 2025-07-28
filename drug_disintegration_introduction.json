@@ -1,0 +1,40 @@
+{
+  "introduction": {
+    "purpose": "This document provides a detailed summary and guidance for describing drug disintegration images across eight key dimensions. The goal is to enhance accuracy, clarity, and context when describing drug disintegration processes.",
+    "dimensions": [
+      {
+        "name": "Color Change",
+        "description": "Captures the variations in color intensity, transparency, and spatial distribution during drug disintegration."
+      },
+      {
+        "name": "Shape Change",
+        "description": "Tracks the overall transformation of the drug's shape from intact to fragmented."
+      },
+      {
+        "name": "Surface Texture Change",
+        "description": "Describes changes in surface texture, including roughness, cracking, and pore formation."
+      },
+      {
+        "name": "Volume Change",
+        "description": "Monitors the reduction in tablet size, correlating with its disintegration rate."
+      },
+      {
+        "name": "Dissolution Speed and Time",
+        "description": "Captures dynamic changes in dissolution rate and particle formation over time."
+      },
+      {
+        "name": "Physical State Change",
+        "description": "Documents the internal and external structure changes, including cracking, swelling, and collapse."
+      },
+      {
+        "name": "Dissolution Medium",
+        "description": "Explores the influence of medium characteristics such as pH, surfactants, and viscosity on disintegration."
+      },
+      {
+        "name": "Fragment Distribution with Density",
+        "description": "Tracks fragment distribution and density in the dissolution medium, including movement and sedimentation."
+      }
+    ],
+    "objective": "Each dimension includes specific criteria, examples, and detailed suggestions to ensure consistent, vivid, and thorough descriptions, supporting both qualitative and quantitative analysis."
+  }
+}

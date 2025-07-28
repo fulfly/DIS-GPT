@@ -1,0 +1,23 @@
+{
+  "color_change": {
+    "overview": "Color change is a crucial indicator of drug disintegration. It involves assessing variations in the color intensity, transparency, and spatial distribution throughout the disintegration process.",
+    "aspects": {
+      "transparency_and_turbidity": {
+        "description": "Describe how the dissolution medium changes from being clear to becoming turbid.",
+        "example": "The initially clear solution gradually turns turbid as the tablet disintegrates, with increasing opacity."
+      },
+      "color_intensity_changes": {
+        "description": "Record how the color intensity evolves over time.",
+        "example": "The solution gradually transitions from a faint hue to a deep color, intensifying as disintegration proceeds."
+      },
+      "spatial_distribution_of_color": {
+        "description": "Identify whether color changes occur uniformly or locally within the dissolution medium.",
+        "example": "Color change begins at the interface between the tablet and the medium, gradually spreading outwards to encompass the entire medium."
+      },
+      "time_sequence_description": {
+        "description": "Include specific timestamps to indicate color transitions.",
+        "example": "At 30 seconds, the solution starts turning slightly opaque; by 1 minute, the entire solution appears fully turbid."
+      }
+    }
+  }
+}

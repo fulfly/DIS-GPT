@@ -1,0 +1,23 @@
+{
+  "physical_state_change": {
+    "overview": "The physical state change dimension captures the transformations in the internal and external structure of the tablet, including cracking, swelling, and eventual collapse.",
+    "aspects": {
+      "pore_formation_and_expansion": {
+        "description": "Document the progression of pore formation.",
+        "example": "Pores form as liquid infiltrates, expanding and causing internal weakening."
+      },
+      "expansion_and_breaking_due_to_liquid_absorption": {
+        "description": "Detail the impact of swelling and subsequent breaking.",
+        "example": "The tablet swells significantly as it absorbs liquid, leading to increased internal tension and eventual breaking."
+      },
+      "particle_generation_and_movement": {
+        "description": "Describe the formation and behavior of particles.",
+        "example": "As the tablet disintegrates, fine particles are formed, some of which remain suspended in the medium, while others settle at the bottom."
+      },
+      "time_based_progression": {
+        "description": "Include temporal markers to denote changes.",
+        "example": "Swelling is evident within the first 45 seconds, with major fragmentation occurring by the end of the second minute."
+      }
+    }
+  }
+}
