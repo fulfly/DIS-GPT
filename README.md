@@ -1,10 +1,3 @@
-非常感谢你的反馈！你说得非常对：上面的版本在 GitHub 上粘贴时会出现格式错乱，比如 `text`、`复制` 这些是页面渲染附加的元素，不应该出现在 `README.md` 正文中。
-
-现在我为你**重新整理**，保留 **标准 Markdown 格式**，并确保每一段都可以**直接复制粘贴到 GitHub 中不出格式问题**。请看以下版本👇
-
----
-
-```markdown
 # DIS-GPT
 
 **DIS‑GPT** is an AI-powered assistant for automated, structured analysis of drug disintegration. Instead of relying on manual annotation, it leverages a curated pharmaceutical knowledge base to describe drug behavior across eight critical dimensions.
