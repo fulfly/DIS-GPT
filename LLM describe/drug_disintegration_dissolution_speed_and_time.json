@@ -1,0 +1,23 @@
+{
+  "dissolution_speed_and_time": {
+    "overview": "This dimension focuses on capturing the dynamic changes in the dissolution rate over time, emphasizing variations due to particle size and liquid penetration.",
+    "aspects": {
+      "dynamic_changes_in_dissolution_rate": {
+        "description": "Describe changes in dissolution rate across different stages.",
+        "example": "The dissolution rate is slow initially, increasing rapidly as the tablet breaks apart and more surface area becomes available."
+      },
+      "particle_formation_and_impact_on_dissolution": {
+        "description": "Explain how the creation of smaller particles affects dissolution speed.",
+        "example": "As larger fragments disintegrate into finer particles, the overall dissolution rate increases due to greater surface exposure."
+      },
+      "effect_of_liquid_penetration": {
+        "description": "Describe how liquid absorption impacts dissolution speed.",
+        "example": "Upon complete penetration of liquid into the core, the dissolution rate spikes, resulting in rapid fragmentation."
+      },
+      "time_sequence_descriptions": {
+        "description": "Use timestamps to mark significant dissolution rate changes.",
+        "example": "The dissolution rate peaks at 2 minutes, following rapid internal disintegration."
+      }
+    }
+  }
+}

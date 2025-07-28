@@ -1,0 +1,23 @@
+{
+  "volume_change": {
+    "overview": "Volume change involves monitoring the reduction in tablet size, which directly correlates with its rate of disintegration.",
+    "aspects": {
+      "overall_volume_reduction": {
+        "description": "Describe the gradual reduction in the tablet's volume.",
+        "example": "The height of the tablet gradually decreases, reducing its overall volume to 50% of its initial size."
+      },
+      "directionality_of_volume_reduction": {
+        "description": "Specify if volume reduction occurs uniformly or predominantly in one direction.",
+        "example": "The tablet reduces significantly in height, while its width remains largely unchanged."
+      },
+      "pore_expansion_and_volume_impact": {
+        "description": "Explain how pore formation affects volume.",
+        "example": "The tablet swells initially as pores form, but eventually collapses as the internal structure weakens."
+      },
+      "time_based_description": {
+        "description": "Use time markers to track volume reduction.",
+        "example": "By the end of the first minute, the tablet's volume had reduced noticeably, with significant collapse occurring by the third minute."
+      }
+    }
+  }
+}

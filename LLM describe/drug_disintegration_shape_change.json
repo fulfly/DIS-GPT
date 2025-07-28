@@ -1,0 +1,23 @@
+{
+  "shape_change": {
+    "overview": "The change in the tablet's overall shape during disintegration provides critical information regarding its breakdown process, from an intact form to small fragments.",
+    "aspects": {
+      "transition_from_whole_to_fragmentation": {
+        "description": "Describe how the drug shape changes from intact to fragmented.",
+        "example": "The initially cylindrical tablet begins to break apart into smaller, irregularly shaped pieces, eventually forming multiple fragments."
+      },
+      "surface_structure_changes": {
+        "description": "Note changes in the surface, such as the appearance of cracks or roughness.",
+        "example": "The surface changes from smooth to rough as cracks and pores begin to form across the surface."
+      },
+      "volume_and_contour_changes": {
+        "description": "Explain how the volume and contour of the tablet evolve during the disintegration.",
+        "example": "The tablet's volume significantly reduces, and its contours become less defined as disintegration proceeds."
+      },
+      "time_based_changes": {
+        "description": "Incorporate specific time markers to illustrate the transformation.",
+        "example": "In the initial 30 seconds, the tablet remains largely intact, but at 1 minute, visible cracks appear, and the volume starts to decrease."
+      }
+    }
+  }
+}
